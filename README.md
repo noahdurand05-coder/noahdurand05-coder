@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Noah Durand
+# 👋 Salut, moi c'est Noah
 
 💻 Développeur Web & Web Mobile en formation à l'ENI École Informatique.
 
